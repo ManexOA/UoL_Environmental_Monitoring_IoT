@@ -2,7 +2,7 @@
 # Author: Manex Ormazabal
 # Location: University of Liverpool - Physics Department - Oliver Lodge building - Liverpool Semiconductor Detector Centre - Cleanroom
 # Date: 22/11/2022
-# Description:
+# Project Description:
 This project was created for the environmental monitoring of the cleanrooms used mainly in the ATLAS ITk project at the physics department of the University of Liverpool. For this, an IoT system was develped to monitor diferent measurements such us Temperature, Humidity or Dust Particles in the environment.
 
 Preliminary, for measuring the temperature and humidity SW854 sensors were used and as a particle counter, Dylos was used.
